@@ -1,4 +1,4 @@
-Hey there! My name's Iván!
+Hey there! My name's Van!
 I'm currently learning the basics of WebDev since this is my main interest at the moment. I love learning new stuff and over anything else, trying to think and create new stuff.
 
 Creative is my word.
